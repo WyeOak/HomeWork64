@@ -1,0 +1,12 @@
+.form-control:focus {
+    border-color: gray;
+    box-shadow: 0 0 5px rgba(128, 128, 128, 1);
+}
+
+.body {
+    background-color: gray;
+}
+
+.line {
+    text-decoration: line-through;
+}
